@@ -16,5 +16,6 @@
             </intent-filter>
         </activity>
     </application>
-
+    <uses-permission android:name="android.permission.INTERNET" />  //진동, gps기능사용 등등시 필요. 인터넷소켓 권한
 </manifest>
+
