@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "185419545591",
+    "firebase_url": "https://jaetest-181af.firebaseio.com",
+    "project_id": "jaetest-181af",
+    "storage_bucket": "jaetest-181af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185419545591:android:36a8809b6823679b",
+        "android_client_info": {
+          "package_name": "com.example.user.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185419545591-0dkoj0hue79p277sm23549rqjr6hp2t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnIj9yu-Qj6rb5lRTjQAJj_HSws6Vdlyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
